@@ -1,8 +1,15 @@
 ### Hi there 👋
 
+<!--Header-->
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500"/>
  </div>
+ 
+ <!--Social-->
+ <div id="badges">
+    <img src="https://komarev.com/ghpvc/?username=17thNIIICE&style=flat-square&color="blue"" alt=""/>
+ </div>
+ <!--Counter-->
 <!--
 **17thNIIICE/17thNIIICE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
