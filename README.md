@@ -25,7 +25,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I solve problems on CODEWARS and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-gerasimchick-784582231/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-CONTACT-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-gerasimchick-784582231/)
 <!--
 **17thNIIICE/17thNIIICE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
