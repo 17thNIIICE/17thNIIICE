@@ -16,6 +16,9 @@
  <div align="center">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600" height="300"/>
 </div>
+
+<!--About me-->
+I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Somewhere(Everywhere).
 <!--
 **17thNIIICE/17thNIIICE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
