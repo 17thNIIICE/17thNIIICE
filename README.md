@@ -16,7 +16,7 @@
  <div align="center">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600" height="300"/>
 </div>
-
+---
 <!--About me-->
 I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Somewhere(Everywhere).
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -26,6 +26,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :zap: In my free time, I solve problems on CODEWARS and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-CONTACT-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-gerasimchick-784582231/)
+---
 ### :hammer_and_wrench: Languages and Tools :
 <!--Tools-->
 <div>
@@ -45,3 +46,16 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+---
+<!--Stats-->
+
+### :fire: My Stats :
+---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=17thNIIICE&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17thniiice&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+<!--Blog-->
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
