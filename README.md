@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 <!--Header-->
 <div id="header" align="center">
